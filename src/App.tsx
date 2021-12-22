@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import { Canvas } from '@react-three/fiber';
 import { Suspense } from 'react';
 import { Earth } from './components/Earth';
-import { TopSection } from './components/topSection';
+import { TopSection } from './components/TopSection';
 
 const CanvasContainer = styled.div`
   width: 100%;
